@@ -1,6 +1,7 @@
 Jalur Belajar Web Saya
 
 1.Belajar Framework Laravel
-2.Belajar React.Js
-3.Belajar Buat web dengan PHP
+2.Belajar React.Js dan Vue.js
+3.Belajar Buat web dengan PHP dan MySql
 4.Konsisten Terus Belajar
+5.Mulai belajar Ui dan Ux design
