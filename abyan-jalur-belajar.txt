@@ -4,3 +4,4 @@ Jalur Belajar Web Saya
 2.Belajar React.Js
 3.Belajar Buat web dengan PHP
 4.Konsisten Terus Belajar
+5.mulai menguasai CI dan bootstrap 4
